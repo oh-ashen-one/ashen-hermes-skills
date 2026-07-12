@@ -1,0 +1,5 @@
+state/
+*.log
+seen.jsonl
+budget-*.json
+.DS_Store
